@@ -1,4 +1,5 @@
 {
+  "private": true,
   "dependencies": {
     "zenn-cli": "^0.1.33"
   },
