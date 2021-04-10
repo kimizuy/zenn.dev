@@ -1,5 +1,5 @@
 ---
-title: 'git init したときのデフォルトブランチ名を master から main 変更する'
+title: 'git init したときのデフォルトブランチ名を master から main に変更する'
 emoji: '✨'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['git']
